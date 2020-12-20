@@ -1,7 +1,7 @@
 # open-source-rover-mission-patch
 Mission Patch for Open Source Rover
 
-Design by Lauren Schooley, licensed under CC BY-ND 4.0. 
+Design by Lauren Schooley, licensed under a Creative Commons Attribution-NoDerivatives 4.0 International Public License. Appropriate credit to the designer and a link to the license must be given. Any changes to the original design should be clearly indicated, and modified material cannot be distrubted. Full license can be found in "LICENSE.md" file. 
 
 Three color variations (full color, duotone, grayscale) of the OSR patch are included in various file formats. Full color and greyscale patches have given color hexadecimal codes (see "Patches and Color Codes" PDF file or main color codes JPEG).
 
