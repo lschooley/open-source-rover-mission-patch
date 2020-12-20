@@ -5,7 +5,7 @@ Design by Lauren Schooley, licensed under a [Creative Commons Attribution-NoDeri
 
 Three color variations (full color, duotone, grayscale) of the OSR patch are included in various file formats. Full color and greyscale patches have given color hexadecimal codes (see "All Patches and Color Codes" PDF file or main color codes JPEG).
 
-Included file formats: Adobe Illustrator (.ai), PDF, JPEG, PNG. 
+Included file formats: PDF, JPEG, PNG. 
 
 JPEG files: 300dpi, 4001 x 4001px
 
