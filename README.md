@@ -1,7 +1,7 @@
 # open-source-rover-mission-patch
 Mission Patch for Open Source Rover
 
-Three color variations (full color, duotone, grayscale) of the OSR patch are included in various file formats. Full color and greyscale patches have given color hexadecimal codes (see "All Patches and Color Codes" PDF file or main color codes JPEG).
+Three color variations (full color, duotone, grayscale) of the OSR patch are included in various file formats. Full color and greyscale patches have given color hexadecimal codes (see "Color Hex Code" folder).
 
 Included file formats: PDF, JPEG, PNG. 
 
