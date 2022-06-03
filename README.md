@@ -10,8 +10,8 @@ JPEG files: 300dpi, 4001 x 4001px
 PNG files (10 inch): 400dpi, 4001 x 4001px
 
 PNG files (5 inch): 400dpi, 2001 x 2001px
-
-
+ 
+ 
 
 Premade OSR Mission Patches Available for Order!
 
